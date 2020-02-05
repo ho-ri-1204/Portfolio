@@ -1,0 +1,23 @@
+@charset "utf-8";
+body {
+  margin: 0;
+  padding: 0;
+  background-color: cornflowerblue;
+  color: floralwhite;
+}
+
+p,h1{
+  font-size:30px;
+  @media screen and (max-width:600px);
+}
+header{
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li{
+  display: inline;
+}
