@@ -149,7 +149,7 @@ footer small {
 }
 
 #index {
-  background-image: url(../images/suki-.jpg);
+  background-image: url(../images/suki-.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -157,7 +157,7 @@ footer small {
 }
 
 #about {
-  background-image: url(../images/index.jpg);
+  background-image: url(../images/index.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -273,7 +273,7 @@ a img:hover {
 }
 
 #photograph {
-  background-image: url(../images/suki-.jpg);
+  background-image: url(../images/suki-.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -291,7 +291,7 @@ a img:hover {
 }
 
 #video {
-  background-image: url(../images/bg-video.jpg)t;
+  background-image: url(../images/bg-video.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -299,7 +299,7 @@ a img:hover {
 }
 
 #contact {
-  background-image: url(../images/suki-.jpg);
+  background-image: url(../images/suki-.png);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
