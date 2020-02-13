@@ -149,7 +149,7 @@ footer small {
 }
 
 #index {
-  background-image: url(../images/suki-.png);
+  background-image: url(../images/suki-.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -157,7 +157,7 @@ footer small {
 }
 
 #about {
-  background-image: url(../images/index.png);
+  background-image: url(../images/index.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -299,7 +299,7 @@ a img:hover {
 }
 
 #contact {
-  background-image: url(../images/suki-.png);
+  background-image: url(../images/suki-.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -465,7 +465,7 @@ a img:hover {
 
 .cp_cssslider {
 	width: 700px;
-	height: 300px;
+	height: 400px;
 	overflow: hidden;
 	margin: 2em auto;
 	border: 10px solid #ffffff;
@@ -473,12 +473,12 @@ a img:hover {
 }
 .cp_slide_item {
 	width: 700px;
-	height: 300px;
+	height: 400px;
 	float: left;
 	position: relative;
 }
 .cp_slidewrapper {
-	width: 300%;/* slideの枚数×100% */
+	width: 500%;/* slideの枚数×100% */
 	position: relative;
 	left: 0;
 	animation: slider 20s infinite ease;/* スピード */
